@@ -1,7 +1,7 @@
 [
   "table-editor-obsidian",
+  "buttons",
   "obsidian-style-settings",
-  "obsidian-underline",
-  "obsidian-text-format",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-underline"
 ]

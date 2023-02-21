@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Aura"
+  "theme": "obsidian",
+  "cssTheme": "Aura",
+  "interfaceFontFamily": ""
 }
