@@ -1,0 +1,20 @@
+{
+  "aura@@aura-colorschemes": true,
+  "aura@@aura-rainbow-tags": true,
+  "aura@@aura-heading-color": true,
+  "aura@@aura-workspace-background": true,
+  "aura@@aura-workspace-background-image": "aura-workspace-background-image-custom",
+  "aura@@aura-workspace-background-image-custom-option": "url(\"https://wallpapercave.com/wp/wp1951631.jpg\")",
+  "aura@@aura-disable-borders": true,
+  "aura@@aura-layout-select": "aura-card-layout",
+  "aura@@aura-card-layout-actions": true,
+  "aura@@aura-card-shadows": true,
+  "aura@@aura-file-icons": true,
+  "aura@@aura-colorful-frame": false,
+  "aura@@aura-workspace-background-workspace-slider": 0.5,
+  "aura@@aura-workspace-background-brightness": 1,
+  "aura@@aura-workspace-background-blur": 5,
+  "aura@@aura-callouts": true,
+  "aura@@aura-active-line": "aura-no-highlight",
+  "aura@@aura-colorshemes": "aura-colorschemes-dracula"
+}
