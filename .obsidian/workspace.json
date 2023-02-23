@@ -8,99 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b00898a5a8af42fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 1 (Chapter 1)/3) Vectors/1) Vectors & Vector Addition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8265c1703dd81f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 1 (Chapter 1)/3) Vectors/3) Unit Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9687e5ec1cb9e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 1 (Chapter 1)/3) Vectors/1) Vectors & Vector Addition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de7d61601b0a8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 1 (Chapter 1)/3) Vectors/2) Components of Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48c4f88b27df4b7c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PNGs n stuff/- Other Photos/Algebraic Method of Adding Vectors.png"
-              }
-            }
-          },
-          {
-            "id": "904547efe984e291",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PNGs n stuff/- Other Photos/Working with the Arctangent Function Table.png"
-              }
-            }
-          },
-          {
-            "id": "63a8c19b41821a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 2 (Chapter 2)/1) Position, Displacement, (there was a 3rd one here but i forgot)/1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5044f0d1ac97524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 2 (Chapter 2)/1) Position, Displacement, (there was a 3rd one here but i forgot)/1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be0c45ae2e09439",
+            "id": "509feef7a61214a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,31 +20,67 @@
             }
           },
           {
-            "id": "83674708ad12f7a7",
+            "id": "8a69ea71e679f038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/2) Velocity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "46ef1f4c5b28b861",
+            "id": "47a5a7efb2e8a37c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/2) Velocity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "509feef7a61214a1",
+            "id": "b6b986f073c2afea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d310e9e9c2d298c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 (Chapter 2)/Motion Along a Straight Line/2) Motion with Constant Acceleration, 1D Kinematic Equations/1) Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72a75e54f60e30d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,26 +199,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36739d2552f96fbe",
+  "active": "72a75e54f60e30d2",
   "lastOpenFiles": [
-    "Section 1 (Chapter 1).md",
+    "().md",
     "README.md",
-    "Section 2 (Chapter 2)/1) Position, Displacement, (there was a 3rd one here but i forgot)/1).md",
-    "Section 2 (Chapter 2)/2) Velocity/1) Velocity.md",
-    "PNGs n stuff/- Other Photos/Working with the Arctangent Function Table.png",
-    "PNGs n stuff/- Other Photos/Quadrants in the Cartesian Plane.png",
-    "PNGs n stuff/- Other Photos/Vector Cross Product 1.png",
-    "PNGs n stuff/- Other Photos/Algebraic Method of Adding Vectors.png",
-    "Section 1 (Chapter 1)/3) Vectors/4) Products of Vectors.md",
-    "Section 1 (Chapter 1)/3) Vectors/3) Unit Vectors.md"
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/2) Motion with Constant Acceleration, 1D Kinematic Equations/1) Introduction.md",
+    "Section 1 (Chapter 1).md",
+    "Untitled.md",
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/3) Acceleration.md",
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/2) Velocity.md",
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/3.5) Acceleration & Velocity.md",
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/2) Velocity/1) Velocity.md",
+    "Section 2 (Chapter 2)/Motion Along a Straight Line/1) Position, Displacement, Velocity, and Acceleration/1) Introduction.md"
   ]
 }
