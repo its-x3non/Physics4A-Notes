@@ -8,4 +8,4 @@ I will update this as a table of contents when i have time
 	- ### 3) [Vectors](/Section%201%20(Chapter%201)/(3)%20Vectors/) 💹
 - ## [Section 2 (Chapter 2)](/Section%202%20(Chapter%202)/)
 	- ### 1) [Position, Displacement, Velocity, & Acceleration](/Section%202%20(Chapter%202)/(1)%20Position,%20Displacement,%20Velocity,%20&%20Acceleration/) 💹
-	- ### 2) [Motion with Constant Acceleration](/Section%202%20(Chapter%202)/(2)%20Motion%20with%20Constant%20Acceleration,%201D%20Kinematic%20Equations/) ❌
+	- ### 2) [Motion with Constant Acceleration, 1D Kinematics Equations](/Section%202%20(Chapter%202)/(2)%20Motion%20with%20Constant%20Acceleration,%201D%20Kinematic%20Equations/) ❌
