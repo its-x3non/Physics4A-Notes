@@ -7,5 +7,10 @@ I will update this as a table of contents when i have time
 	- ### 2) [Measurement, Estimation, & Unit Conversion](/Section%201%20(Chapter%201)/(2)%20Measurement,%20Estimation,%20&%20Unit%20Conversion/) 💹
 	- ### 3) [Vectors](/Section%201%20(Chapter%201)/(3)%20Vectors/) 💹
 - ## [Section 2 (Chapter 2)](/Section%202%20(Chapter%202)/)
+<<<<<<< HEAD
 	- ### 1) [Position, Displacement, Velocity, & Acceleration](/Section%202%20(Chapter%202)/(1)%20Position,%20Displacement, %20Velocity,%20and%20Acceleration/) 💹
 	- ### 2) [Motion with Constant Acceleration, 1D Kinematics Equations](/Section%202%20(Chapter%202)/(2)%20Motion%20with%20Constant%20Acceleration,%201D%20Kinematic%20Equations/) ❌
+=======
+	- ### 1) [Position, Displacement, Velocity, & Acceleration](/Section%202%20(Chapter%202)/Motion%20Along%20a%20Straight%20Line/(1)%20Position,%20Displacement,%20Velocity,%20&%20Acceleration/) 💹
+	- ### 2) [Motion with Constant Acceleration, 1D Kinematics Equations](/Section%202%20(Chapter%202)/Motion%20Along%20a%20Straight%20Line/(2)%20Motion%20with%20Constant%20Acceleration,%201D%20Kinematic%20Equations/) ❌
+>>>>>>> ad3923766240125407da028cd666b7fc012d4ba3
