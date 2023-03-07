@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
 }
